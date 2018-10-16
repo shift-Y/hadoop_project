@@ -1,1 +1,1 @@
-# this is a simple hadoop project.its contains serializable and statistics examples.
+# this is a simple hadoop project,it contains serializable and statistics examples.
